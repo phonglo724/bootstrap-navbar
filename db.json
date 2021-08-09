@@ -1,0 +1,19 @@
+{
+    "family": [
+        {
+            "name": "Phong",
+            "age": 33,
+            "residence": "Denver"
+        },
+        {
+            "name": "Edd",
+            "age": 30,
+            "residence": "Denver"
+        },
+        {
+            "name": "Nymeria",
+            "age": 6,
+            "residence": "Denver"
+        }
+    ]
+}

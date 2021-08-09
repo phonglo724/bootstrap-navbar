@@ -1,0 +1,9 @@
+.bg-light {
+    background-color: yellow!important;
+}
+/* The above CSS overrides the default style from Bootstrap. Look in browser console. */
+
+.col-md-4 {
+    border:tomato 1px solid;
+    text-align: center;
+}
